@@ -26,5 +26,7 @@ namespace math
 	{
 		return Vector2D(vector.myfirst * scalar, vector.mysecond * scalar);
 	}
+	xxx
+		yyy
 
 }
